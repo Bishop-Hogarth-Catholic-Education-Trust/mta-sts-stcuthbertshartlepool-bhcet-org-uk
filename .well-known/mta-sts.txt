@@ -1,0 +1,6 @@
+version: STSv1
+mode: enforce
+mx: d237169.a.ess.uk.barracudanetworks.com
+mx: d237169.b.ess.uk.barracudanetworks.com
+mx: stcuthbertshartlepool-bhcet-org-uk.mail.protection.outlook.com
+max_age: 86400
